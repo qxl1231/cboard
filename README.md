@@ -11,9 +11,7 @@
 
 废话不多少,Star + 打赏吧!
 
+![支付宝](./alipay.jpeg) | ![微信](./Wechat.jpeg)
 
- ![微信](
-        http://generator-loopback-vue/Wechat.jpeg
-     )
  
       
