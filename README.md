@@ -12,4 +12,8 @@
 废话不多少,Star + 打赏吧!
 
 
- ![微信](./Wechat.jpeg)
+ ![微信](
+        http://generator-loopback-vue/Wechat.jpeg
+     )
+ 
+      
